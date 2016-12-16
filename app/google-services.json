@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "621351133644",
+    "firebase_url": "https://test-auth-93b30.firebaseio.com",
+    "project_id": "test-auth-93b30",
+    "storage_bucket": "test-auth-93b30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621351133644:android:05488c504d8cb8b5",
+        "android_client_info": {
+          "package_name": "com.fdamiani.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621351133644-bu7tf7fb7s5pm3uk3c3p4jihhlemgf7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFHP_zcnJqAds_dhFIJVHlTjNorEVRMa4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
